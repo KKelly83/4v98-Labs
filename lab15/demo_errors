@@ -1,0 +1,6 @@
+[03-Dec-2024 22:54:38 Europe/Berlin] PHP Warning:  Undefined variable $someString in C:\xampp\htdocs\CS4v98_labs\lab15\lab15-exercise01.php on line 9
+[03-Dec-2024 22:54:38 Europe/Berlin] PHP Warning:  file_get_contents(asdsasdsa.txt): Failed to open stream: No such file or directory in C:\xampp\htdocs\CS4v98_labs\lab15\lab15-exercise01.php on line 11
+[03-Dec-2024 22:54:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function nonexistant_function() in C:\xampp\htdocs\CS4v98_labs\lab15\lab15-exercise01.php:13
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\CS4v98_labs\lab15\lab15-exercise01.php on line 13
